@@ -1,0 +1,439 @@
+[ {
+  "baseItem" : {
+    "id" : "_1-m_kPR3Ee6k7LnlOeXZbA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - aus_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - chicago_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - nyc_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_7I5FQPOJEe6ntJ4yhVM5iQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - stage_chicago",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_7mDscPJXEe6945RahPyjLw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_BoCdAPJYEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_BoCdAPJYEe6945RahPyjLw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_81PQYPVMEe631NIVnsMqkw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - aus_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - chicago_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - nyc_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EcOtsPPeEe6k7LnlOeXZbA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_NLkSkPRxEe6k7LnlOeXZbA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - aus_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - chicago_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - nyc_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QAokwPR9Ee6TarYj0tMi8Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_rB1xMPSREe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_rB1xMPSREe6LovsApF6X-Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ZDXbwPMYEe6945RahPyjLw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - nyc_stage",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ZtZYYPVWEe631NIVnsMqkw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_rB1xMPSREe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - aus_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - chicago_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - dim_source",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - fact_accidents",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - nyc_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_rB1xMPSREe6LovsApF6X-Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__gwUEPVPEe631NIVnsMqkw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - aus_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - chicago_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - dim_vehicle_type",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - fact_accidents",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - nyc_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_fvaAAPRXEe6k7LnlOeXZbA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ypFfIPSAEe6TarYj0tMi8Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ypFfIPSAEe6TarYj0tMi8Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ghs-sPOeEe6ntJ4yhVM5iQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - austin_stage",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_kiAX4PRNEe6k7LnlOeXZbA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - aus_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - chicago_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - nyc_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_m25dIPJUEe6945RahPyjLw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_uySmYPJUEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - nyc_stage",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_uySmYPJUEe6945RahPyjLw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_orW_APSyEe6yhZ4IchI5Hg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - aus_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - dim_date",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - dim_location",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_vBAOQPJIEe6945RahPyjLw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "__WKe0PJIEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "__WKe0PJIEe6945RahPyjLw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_vuVtkPU2Ee631NIVnsMqkw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - dim_date",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - fact_accidents_initial",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wgHhYPPZEe6k7LnlOeXZbA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_WvsKAPJJEe6945RahPyjLw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WvsKAPJJEe6945RahPyjLw - aus_transformed",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

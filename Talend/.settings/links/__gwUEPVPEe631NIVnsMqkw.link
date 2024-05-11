@@ -1,0 +1,26 @@
+{
+  "itemId" : "__gwUEPVPEe631NIVnsMqkw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_5nVwEPSTEe6LovsApF6X-Q",
+    "parameterList" : [ {
+      "id" : "_5ntjgfSTEe6LovsApF6X-Q",
+      "name" : "stage_austin_Login"
+    }, {
+      "id" : "_5ntjgvSTEe6LovsApF6X-Q",
+      "name" : "stage_austin_Database"
+    }, {
+      "id" : "_5ntjg_STEe6LovsApF6X-Q",
+      "name" : "stage_austin_AdditionalParams"
+    }, {
+      "id" : "_5ntjhPSTEe6LovsApF6X-Q",
+      "name" : "stage_austin_Password"
+    }, {
+      "id" : "_5ntjhfSTEe6LovsApF6X-Q",
+      "name" : "stage_austin_Port"
+    }, {
+      "id" : "_5ntjhvSTEe6LovsApF6X-Q",
+      "name" : "stage_austin_Server"
+    } ]
+  } ]
+}

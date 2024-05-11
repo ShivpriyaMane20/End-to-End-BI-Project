@@ -1,0 +1,22 @@
+package routines;
+
+import java.text.SimpleDateFormat;
+import java.util.Locale;
+
+public class CustomImports {
+
+    /**
+     * helloExample: not return value, only print "hello" + message.
+     * 
+     * {talendTypes} String
+     * {Category} User Defined
+     * {param} string("world") input: The string needs to be printed.
+     * {example} helloExample("world") # hello world!.
+     */
+    public static void helloExample(String message) {
+        if (message == null) {
+            message = "World";
+        }
+        System.out.println("Hello " + message + " !");
+    }
+}
